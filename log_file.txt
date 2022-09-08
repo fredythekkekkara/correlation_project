@@ -65132,3 +65132,7 @@ No file found: 1997-01-01No file found: 1997-01-01No file found: 1997-01-01No fi
 2022-06-23 15:12:13.023155	Can not read file: C:\Users\davi_fr\Documents\Thesis Project Final\tets folder main\test\computations\relative_difference\tec\2000
 2022-06-26 01:40:14.575876	Can not read file: C:\Users\davi_fr\Documents\Thesis Project Final\tets folder main\test\data_formatting\tec_og
 2022-06-27 01:35:03.730223	Can not read file: C:\Users\davi_fr\Documents\Thesis Project Final\tets folder main\test\data_formatting\tec_og\2003
+2022-08-29 10:06:35.618396	Can not read file: C:\Users\davi_fr\Documents\Thesis Project Final\correlation_test_270622\computations\confidence_interval\conf_int_corr_tec_f10_7\conf_int_corr_tec_f10_upperConfInterval.h5
+2022-08-29 10:07:37.888930	Can not read file: C:\Users\davi_fr\Documents\Thesis Project Final\correlation_test_270622\computations\confidence_interval\conf_int_corr_tec_f10_7\conf_int_corr_tec_f10_upperConfInterval.h5
+2022-08-29 10:07:58.081147	Can not read file: C:\Users\davi_fr\Documents\Thesis Project Final\correlation_test_270622\computations\confidence_interval\conf_int_corr_tec_f10_7\conf_int_corr_tec_f10_upperConfInterval.h5
+2022-08-29 10:09:13.500152	Can not read file: C:\Users\davi_fr\Documents\Thesis Project Final\correlation_test_270622\computations\confidence_interval\conf_int_corr_tec_f10_7\conf_int_corr_tec_f10_upperConfInterval.h5
