@@ -1,4 +1,4 @@
-# correlation_project
+# Illustration of different effects in the correlation of solar and ionosphere parameters in time scales of several days to months
 
 ### Overview
 
